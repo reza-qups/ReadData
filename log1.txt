@@ -1,0 +1,28 @@
+Listening on wlp0s20f3
+   # Host name (port/service if enabled)            last 2s   last 10s   last 40s cumulative
+--------------------------------------------------------------------------------------------
+   1 asif-IdeaPad-3-15IIL05                   =>         0b       883b       883b     1.08KB
+     _gateway                                 <=         0b     1.18Kb     1.18Kb     1.47KB
+   2 224.0.0.251                              =>         0b         0b         0b         0B
+     _gateway                                 <=     2.81Kb       576b       576b       720B
+   3 asif-IdeaPad-3-15IIL05                   =>       796b       478b       478b       597B
+     239.255.255.250                          <=         0b         0b         0b         0B
+   4 asif-IdeaPad-3-15IIL05                   =>         0b        66b        66b        82B
+     lb-140-82-114-26-iad.github.com          <=         0b       104b       104b       130B
+   5 asif-IdeaPad-3-15IIL05                   =>         0b        65b        65b        81B
+     lb-140-82-112-26-iad.github.com          <=         0b       103b       103b       129B
+   6 asif-IdeaPad-3-15IIL05                   =>         0b       104b       104b       130B
+     si-in-f188.1e100.net                     <=         0b        62b        62b        78B
+   7 224.0.0.251                              =>         0b         0b         0b         0B
+     192.168.0.191                            <=         0b        84b        84b       105B
+   8 asif-IdeaPad-3-15IIL05                   =>         0b        42b        42b        52B
+     200.1.240.35.bc.googleusercontent.com    <=         0b        42b        42b        52B
+--------------------------------------------------------------------------------------------
+Total send rate:                                       796b     1.60Kb     1.60Kb
+Total receive rate:                                  2.81Kb     2.13Kb     2.13Kb
+Total send and receive rate:                         3.59Kb     3.72Kb     3.72Kb
+--------------------------------------------------------------------------------------------
+Peak rate (sent/received/total):                     4.21Kb     3.48Kb     7.69Kb
+Cumulative (sent/received/total):                    2.00KB     2.66KB     4.66KB
+============================================================================================
+
